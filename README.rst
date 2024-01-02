@@ -17,6 +17,8 @@ I try to avoid idolizing anyone in life, so what's below is definitely not a ref
 Similarly, I have *not* eliminated anyone below simply for hearing they have a flaw or have done something wrong, though with *sufficient* persuasion one can become disenamored with anyone, regardless of pertinence of the misdeed.
 Somewhat hypocritically, I waver about including someone like Dan Ariely below (and have for the minute left him out), as much as I tremendously enjoyed his work and was really introduced to behavioral economics through it, there are sufficient question marks at this point to at least be sad at things have turned out.
 
+Deceased people also don't appear here. Sorry Feynman.
+
 I also don't think this list will be entirely static -- and one or two of the people on it are here even though I'm actually quite unfamiliar with their larger body of work -- but whatever small amount I am familiar with hooked me, so they're here.
 
 So, the list in no order whatsoever, with only scribbles about what subject or area of expertise, or if neither, at least the context in which I encountered them:
@@ -33,6 +35,8 @@ So, the list in no order whatsoever, with only scribbles about what subject or a
 * Gurpreet Dhaliwal (diagnostician)
 * Bapu Jena (Freakonomics M.D.)
 * Ira Glass
+* Greg Wilson
+* J Kenji Lopez-Alt
 * Steve Levitt & Stephen Dubner (Freakonomics)
 * Andrew Ng (Machine Learning)
 * David Smerdon (Chess + Statistics)
