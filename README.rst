@@ -31,6 +31,7 @@ So, the list in no order whatsoever, with only scribbles about what subject or a
 * Dan Luu
 * Simon Willison
 * Stephen Fry
+* Jon Stewart
 * V.S. Ramachandran
 * Gurpreet Dhaliwal (diagnostician)
 * Bapu Jena (Freakonomics M.D.)
