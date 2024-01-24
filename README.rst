@@ -30,6 +30,7 @@ So, the list in no order whatsoever, with only scribbles about what subject or a
 * Leslie Lamport (Computer Science)
 * Dan Luu
 * Simon Willison
+* Julia Evans
 * Stephen Fry
 * Jon Stewart
 * V.S. Ramachandran
