@@ -31,6 +31,8 @@ So, the list in no order whatsoever, with only scribbles about what subject or a
 * Dan Luu
 * Simon Willison
 * Julia Evans
+* Tai-Danae Bradley
+* Grant Sanderson
 * Stephen Fry
 * Jon Stewart
 * V.S. Ramachandran
