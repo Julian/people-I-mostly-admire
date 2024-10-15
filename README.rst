@@ -44,6 +44,7 @@ So, the list in no order whatsoever, with only scribbles about what subject or a
 * Steve Levitt & Stephen Dubner (Freakonomics)
 * Andrew Ng (Machine Learning)
 * David Smerdon (Chess + Statistics)
+* Tom Scott
 
 At some point I'll try to link to at least one piece of content from each of the above, so that someone unfamiliar can decide whether they too are hooked.
 Feel free to nag me to do so if you're interested.
