@@ -41,6 +41,7 @@ So, the list in no order whatsoever, with only scribbles about what subject or a
 * Ira Glass
 * Greg Wilson
 * J Kenji Lopez-Alt
+* Brian Lagerstrom
 * Steve Levitt & Stephen Dubner (Freakonomics)
 * Andrew Ng (Machine Learning)
 * David Smerdon (Chess + Statistics)
