@@ -38,6 +38,7 @@ So, the list in no order whatsoever, with only scribbles about what subject or a
 * V.S. Ramachandran
 * Gurpreet Dhaliwal (diagnostician)
 * Bapu Jena (Freakonomics M.D.)
+* Douglas Hofstadter
 * Ira Glass
 * Greg Wilson
 * J Kenji Lopez-Alt
